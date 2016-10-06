@@ -1,2 +1,2 @@
 # VirtPC
-VirtPC -- emulator PC with FreePAscal
+VirtPC -- emulator PC with PascalABC.Net
